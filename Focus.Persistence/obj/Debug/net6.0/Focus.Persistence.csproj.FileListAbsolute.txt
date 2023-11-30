@@ -1,0 +1,17 @@
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.csproj.AssemblyReference.cache
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.AssemblyInfoInputs.cache
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.AssemblyInfo.cs
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.csproj.CoreCompileInputs.cache
+C:\Zakat-Project\Focus.Persistence\bin\Debug\net6.0\Focus.Persistence.deps.json
+C:\Zakat-Project\Focus.Persistence\bin\Debug\net6.0\Focus.Persistence.dll
+C:\Zakat-Project\Focus.Persistence\bin\Debug\net6.0\Focus.Persistence.pdb
+C:\Zakat-Project\Focus.Persistence\bin\Debug\net6.0\Focus.Business.dll
+C:\Zakat-Project\Focus.Persistence\bin\Debug\net6.0\Focus.Domain.dll
+C:\Zakat-Project\Focus.Persistence\bin\Debug\net6.0\Focus.Business.pdb
+C:\Zakat-Project\Focus.Persistence\bin\Debug\net6.0\Focus.Domain.pdb
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.csproj.CopyComplete
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.dll
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\refint\Focus.Persistence.dll
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\Focus.Persistence.pdb
+C:\Zakat-Project\Focus.Persistence\obj\Debug\net6.0\ref\Focus.Persistence.dll

@@ -1,0 +1,15 @@
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.csproj.AssemblyReference.cache
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.AssemblyInfoInputs.cache
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.AssemblyInfo.cs
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.csproj.CoreCompileInputs.cache
+C:\Zakat-Project\Focus.Business\bin\Debug\net6.0\Focus.Business.deps.json
+C:\Zakat-Project\Focus.Business\bin\Debug\net6.0\Focus.Business.dll
+C:\Zakat-Project\Focus.Business\bin\Debug\net6.0\Focus.Business.pdb
+C:\Zakat-Project\Focus.Business\bin\Debug\net6.0\Focus.Domain.dll
+C:\Zakat-Project\Focus.Business\bin\Debug\net6.0\Focus.Domain.pdb
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.csproj.CopyComplete
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.dll
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\refint\Focus.Business.dll
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\Focus.Business.pdb
+C:\Zakat-Project\Focus.Business\obj\Debug\net6.0\ref\Focus.Business.dll

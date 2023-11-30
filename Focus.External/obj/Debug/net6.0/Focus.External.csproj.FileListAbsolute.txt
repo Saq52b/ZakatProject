@@ -1,0 +1,17 @@
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.csproj.AssemblyReference.cache
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.AssemblyInfoInputs.cache
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.AssemblyInfo.cs
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.csproj.CoreCompileInputs.cache
+C:\Zakat-Project\Focus.External\bin\Debug\net6.0\Focus.External.deps.json
+C:\Zakat-Project\Focus.External\bin\Debug\net6.0\Focus.External.dll
+C:\Zakat-Project\Focus.External\bin\Debug\net6.0\Focus.External.pdb
+C:\Zakat-Project\Focus.External\bin\Debug\net6.0\Focus.Business.dll
+C:\Zakat-Project\Focus.External\bin\Debug\net6.0\Focus.Domain.dll
+C:\Zakat-Project\Focus.External\bin\Debug\net6.0\Focus.Business.pdb
+C:\Zakat-Project\Focus.External\bin\Debug\net6.0\Focus.Domain.pdb
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.csproj.CopyComplete
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.dll
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\refint\Focus.External.dll
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\Focus.External.pdb
+C:\Zakat-Project\Focus.External\obj\Debug\net6.0\ref\Focus.External.dll

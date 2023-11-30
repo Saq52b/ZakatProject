@@ -1,0 +1,14 @@
+C:\Zakat-Project\Focus.Domain\bin\Debug\net6.0\Focus.Domain.deps.json
+C:\Zakat-Project\Focus.Domain\bin\Debug\net6.0\Focus.Domain.runtimeconfig.json
+C:\Zakat-Project\Focus.Domain\bin\Debug\net6.0\Focus.Domain.dll
+C:\Zakat-Project\Focus.Domain\bin\Debug\net6.0\Focus.Domain.pdb
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.csproj.AssemblyReference.cache
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.AssemblyInfoInputs.cache
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.AssemblyInfo.cs
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.csproj.CoreCompileInputs.cache
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.dll
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\refint\Focus.Domain.dll
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.pdb
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\Focus.Domain.genruntimeconfig.cache
+C:\Zakat-Project\Focus.Domain\obj\Debug\net6.0\ref\Focus.Domain.dll

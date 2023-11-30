@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\AmericanExpress.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\AmericanExpress.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\ApplePay.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\ApplePay.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\Discover.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\Discover.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\Mada.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\Mada.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\MasterCard.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\MasterCard.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\PayPal.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\PayPal.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\StcPay.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\StcPay.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\Visa.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\Visa.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\PaymentOptions\\WesternUnion.png",
+      "PackagePath": "staticwebassets\\PaymentOptions\\WesternUnion.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\Sample.pdf",
+      "PackagePath": "staticwebassets\\Rotativa\\Sample.pdf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\image.jpg",
+      "PackagePath": "staticwebassets\\Rotativa\\image.jpg"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\image.png",
+      "PackagePath": "staticwebassets\\Rotativa\\image.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\testing.html",
+      "PackagePath": "staticwebassets\\Rotativa\\testing.html"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\testing.jpeg",
+      "PackagePath": "staticwebassets\\Rotativa\\testing.jpeg"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\testing.pdf",
+      "PackagePath": "staticwebassets\\Rotativa\\testing.pdf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\testing1.pdf",
+      "PackagePath": "staticwebassets\\Rotativa\\testing1.pdf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllbegin.inc",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllbegin.inc"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllend.inc",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\dllend.inc"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\image.h",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\image.h"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\pdf.h",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\include\\wkhtmltox\\pdf.h"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\lib\\wkhtmltox.lib",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\lib\\wkhtmltox.lib"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\Rotativa\\wkhtmltopdf\\uninstall.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf\\uninstall.exe"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\Custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Custom.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\component.css",
+      "PackagePath": "staticwebassets\\assets\\css\\component.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\component.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\component.css.map"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\component.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\component.min.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\landscape.css",
+      "PackagePath": "staticwebassets\\assets\\css\\landscape.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\paper-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\paper-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\css\\paper-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\element-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\element-icons.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\element-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\element-icons.woff"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\simpbdo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simpbdo.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\fonts\\simpo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simpo.ttf"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\AU.png",
+      "PackagePath": "staticwebassets\\assets\\img\\AU.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\BR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\BR.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\DE.png",
+      "PackagePath": "staticwebassets\\assets\\img\\DE.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\GB.png",
+      "PackagePath": "staticwebassets\\assets\\img\\GB.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\RO.png",
+      "PackagePath": "staticwebassets\\assets\\img\\RO.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\US.png",
+      "PackagePath": "staticwebassets\\assets\\img\\US.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\a3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\a3.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\agenda.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agenda.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\cloud-computing.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cloud-computing.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\noblelogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\noblelogo.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\img\\noblelogowithicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\noblelogowithicon.png"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\paper-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\paper-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\paper-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-selectpicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-selectpicker.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery-jvectormap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-jvectormap.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery.bootstrap-wizard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.bootstrap-wizard.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\js\\plugins\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_animated-buttons.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_example-pages.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_example-pages.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_images.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_media-queries.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_media-queries.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_pills.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_pills.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_popups.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_popups.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_sections.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-background.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-collapse.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-collapse.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-contributions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-contributions.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-info-area.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-info-area.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-lock.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-lock.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-pricing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-pricing.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-profile.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-profile.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-signup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-signup.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats-mini.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-stats-mini.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-subcategories.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-subcategories.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-tasks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-tasks.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-testimonials.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-testimonials.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_tags.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_tags.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes-extend.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_wizard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_wizard.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-select.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-switch.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-bootstrap-table.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-card-wizard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-card-wizard.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datatables.net.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datatables.net.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datetimepicker.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-datetimepicker.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-fullcalendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-fullcalendar.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jasny-fileupload.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jasny-fileupload.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jquery.jvectormap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-jquery.jvectormap.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-nouislider.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-sweetalert2.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-sweetalert2.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-tagsinput.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-tagsinput.scss"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\css\\Loader.css",
+      "PackagePath": "staticwebassets\\css\\Loader.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\css\\vue-multiselect.min.css",
+      "PackagePath": "staticwebassets\\css\\vue-multiselect.min.css"
+    },
+    {
+      "Id": "C:\\Zakat-Project\\Noble.Api\\wwwroot\\images\\fav.png",
+      "PackagePath": "staticwebassets\\images\\fav.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Noble.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Noble.Api.props",
+      "PackagePath": "build\\Noble.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Noble.Api.props",
+      "PackagePath": "buildMultiTargeting\\Noble.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Noble.Api.props",
+      "PackagePath": "buildTransitive\\Noble.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

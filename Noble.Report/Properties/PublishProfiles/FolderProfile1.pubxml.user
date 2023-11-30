@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\TechQode\Desktop\ReportServer</_PublishTargetUrl>
+    <History>True|2023-09-19T14:36:22.0235621Z;True|2023-09-13T18:47:42.8680036+05:00;True|2023-09-13T18:47:31.3501525+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/nwind.json">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>12/08/2020 23:05:32</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Charts.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeParser.v22.2.dll">
+      <publishTime>09/07/2023 15:08:42</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Dashboard.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:08:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Dashboard.v22.2.Web.dll">
+      <publishTime>09/07/2023 15:08:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Dashboard.v22.2.Web.WebForms.dll">
+      <publishTime>09/07/2023 15:08:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.Desktop.v22.2.dll">
+      <publishTime>09/07/2023 15:08:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v22.2.dll">
+      <publishTime>09/07/2023 18:51:21</publishTime>
+    </File>
+    <File Include="bin/DevExpress.DataAccess.v22.2.dll">
+      <publishTime>09/07/2023 15:08:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.DataVisualization.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:08:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Drawing.v22.2.dll">
+      <publishTime>09/07/2023 15:08:47</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Images.v22.2.dll">
+      <publishTime>09/07/2023 15:08:52</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Map.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:08:57</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Office.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Pdf.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Pdf.v22.2.Drawing.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.PivotGrid.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Printing.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v22.2.Export.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Sparkline.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.SpellChecker.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Spreadsheet.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:12</publishTime>
+    </File>
+    <File Include="bin/DevExpress.TreeMap.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxDiagram.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxGantt.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxGauges.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxHtmlEditor.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxPivotGrid.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxRichEdit.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxScheduler.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxSpellChecker.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxSpreadsheet.v22.2.dll">
+      <publishTime>09/07/2023 15:09:03</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxThemes.v22.2.dll">
+      <publishTime>09/07/2023 15:08:42</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxTreeList.v22.2.dll">
+      <publishTime>09/07/2023 15:08:42</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.Bootstrap.v22.2.dll">
+      <publishTime>09/07/2023 15:08:42</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.Resources.v22.2.dll">
+      <publishTime>09/07/2023 15:09:05</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.v22.2.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Xpo.v22.2.dll">
+      <publishTime>09/07/2023 15:09:08</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraCharts.v22.2.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraCharts.v22.2.Web.dll">
+      <publishTime>09/07/2023 15:08:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraGauges.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraReports.v22.2.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraReports.v22.2.Web.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraReports.v22.2.Web.WebForms.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraScheduler.v22.2.Core.Desktop.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraScheduler.v22.2.Core.dll">
+      <publishTime>09/07/2023 15:09:10</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraTreeMap.v22.2.dll">
+      <publishTime>09/07/2023 15:09:12</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>02/24/2022 18:50:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/18/2022 21:19:40</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 20:03:36</publishTime>
+    </File>
+    <File Include="bin/Noble.Report.dll">
+      <publishTime>09/19/2023 19:36:18</publishTime>
+    </File>
+    <File Include="bin/Noble.Report.pdb">
+      <publishTime>09/19/2023 19:36:18</publishTime>
+    </File>
+    <File Include="bin/QRCoder.dll">
+      <publishTime>12/12/2021 17:30:50</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>04/09/2023 22:40:52</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 15:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/08/2022 08:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 18:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/23/2021 04:40:18</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>10/18/2022 21:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>01/20/2023 05:01:50</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 15:05:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 18:29:52</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Designer.aspx">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Reports/Invoice/A4_DefaultTempletDesigner.aspx">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Reports/Invoice/A4_DefaultTempletForm.aspx">
+      <publishTime>09/13/2023 15:51:57</publishTime>
+    </File>
+    <File Include="Reports/Report.repx">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Site.master">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Viewer.aspx">
+      <publishTime>09/12/2023 11:45:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/13/2023 18:47:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
